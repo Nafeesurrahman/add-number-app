@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Add</string>
+
+    <string name="button">Add</string>
+
+    <string name="m">Answer</string>
+    <string name="side">Enter Length</string>
+    <string name="todo">TODO</string>
+    <string name="textview">Add Two Number</string>
+
+    <string name="_0">0</string>
+    <string name="second_number">Second number</string>
+    <string name="first_number">First number</string>
+    <string name="add">ADD</string>
+
 </resources>
